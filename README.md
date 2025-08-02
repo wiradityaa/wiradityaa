@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Wiraditya
 
-<!--
-**wiradityaa/wiradityaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Data enthusiast exploring the world of analytics, machine learning, and AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm Working On
+- Running small projects with machine learning models  
+- Doing exploratory analysis on real-world datasets  
+- Learning more about Python, stats, and how to explain models clearly  
+
+---
+
+### 📚 Interests
+- Data analytics & visualization  
+- Machine learning & deep learning  
+- AI, LLMs, and how they work  
+- Figuring out real stuff using data  
+
+---
+
+### 💻 Languages
+`Python`, `SQL`, `R`  
+
+---
+
+### 📬 Reach Me  
+📧 [agungwiraditya@gmail.com](mailto:agungwiradityaa@gmail.com)  
+📷 [Instagram](https://instagram.com/agungwiradityaa)  
+🔗 [LinkedIn](https://linkedin.com/in/agungwiraditya)

@@ -12,7 +12,7 @@
 ---
 
 ### 📚 Interests
-- Data analytics & visualization  
+- Data analytics, pipelines, and visualization  
 - Machine learning & deep learning  
 - AI, LLMs, and how they work  
 - Figuring out real stuff using data  
@@ -24,7 +24,7 @@
 
 ---
 
-### 📬 Reach Me  
-📧 [agungwiraditya@gmail.com](mailto:agungwiradityaa@gmail.com)  
-📷 [Instagram](https://instagram.com/agungwiradityaa)  
-🔗 [LinkedIn](https://linkedin.com/in/agungwiraditya)
+### 📬 Let's Connect!  
+📧 Email : [agungwiraditya@gmail.com](mailto:agungwiradityaa@gmail.com)  
+📷 Instagram : [@agungwiradityaa](https://instagram.com/agungwiradityaa)  
+🔗 LinkedIn : [agungwiraditya](https://linkedin.com/in/agungwiraditya)
